@@ -20,4 +20,4 @@ Gabriel Kauan da Silva
 
  
 # turma:2° c 
-disiplina PWI
+disciplina PWI
